@@ -23,8 +23,13 @@
         "backgroundColor": "#ffffff"
       }
     },
+  "scheme": "Dating_App",
+
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
